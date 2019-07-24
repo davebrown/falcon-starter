@@ -1,0 +1,5 @@
+pyodbc
+falcon
+gunicorn
+falcon-multipart
+falcon_cors
